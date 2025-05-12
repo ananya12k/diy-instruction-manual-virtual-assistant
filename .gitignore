@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.idea/
+.DS_Store
+data/extracted_images/*
+data/processed_data/*
+faiss_indexes/*
+# You might decide to commit a small sample from raw_manuals later
+# data/raw_manuals/*
